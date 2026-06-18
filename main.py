@@ -23,11 +23,11 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Çykyş üýtgeýjileri (Railway'de sazlanýar)
-TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
-MARZBAN_PANEL_URL = os.environ.get("MARZBAN_PANEL_URL", "https://luxuryy.turkmen-tagamlary.xyz:8443")
-MARZBAN_ADMIN_USERNAME = os.environ.get("MARZBAN_ADMIN_USERNAME")
-MARZBAN_ADMIN_PASSWORD = os.environ.get("MARZBAN_ADMIN_PASSWORD")
-ADMIN_TELEGRAM_ID = os.environ.get("ADMIN_TELEGRAM_ID")
+TELEGRAM_BOT_TOKEN = os.environ.get("8761065175:AAHcSfuX2SSu1x4cJCGcAVAnwgNmzjTHhXU")
+MARZBAN_PANEL_URL = os.environ.get("MARZBAN_PANEL_URL", "https://luxuryy.turkmen-tagamlary.xyz:8443/chacakdyaie/ajehaishsel/#/")
+MARZBAN_ADMIN_USERNAME = os.environ.get("kema87")
+MARZBAN_ADMIN_PASSWORD = os.environ.get("frost")
+ADMIN_TELEGRAM_ID = os.environ.get("8216327129")
 
 # Dymyky sazlamalar
 DEFAULT_DATA_LIMIT_GB = 125
